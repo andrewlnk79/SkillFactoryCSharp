@@ -1,0 +1,8 @@
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\obj\Debug\Task5.6.csproj.AssemblyReference.cache
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\obj\Debug\Task5.6.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\obj\Debug\Task5.6.csproj.CoreCompileInputs.cache
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\obj\Debug\SkillFactory.exe
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\obj\Debug\SkillFactory.pdb
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\bin\Debug\SkillFactory.exe.config
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\bin\Debug\SkillFactory.exe
+D:\YandexDisk\IDE\visualStudio\SkillFactory\SkillFactory\bin\Debug\SkillFactory.pdb
