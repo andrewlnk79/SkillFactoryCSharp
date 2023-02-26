@@ -16,7 +16,7 @@ namespace SkillFactory
     {
         static void Main(string[] args)
         {
-
+           
 
 
 
@@ -86,13 +86,13 @@ namespace SkillFactory
                 var pets_quantity = int.Parse(Console.ReadLine());
                 if(pets_quantity > 0) 
                 {
-                    List<string> pets_name = new List<string>;
+                    List<String> pets_name = new List<String>();
                     for(int i = 0; i < pets_quantity; i++)
                     {
                         Console.WriteLine("введите кличку вашего питомца");
-                        pets_name[i] = Console.ReadLine();
+                        pets_name.Add (Console.ReadLine());
                     }
-                    return List
+                    return pets_name;
 
                 }
 
